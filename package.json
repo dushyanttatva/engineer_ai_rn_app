@@ -18,7 +18,7 @@
     "@react-navigation/compat": "^5.2.0",
     "@react-navigation/native": "5.1.5",
     "i18n-js": "^3.7.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "moment": "^2.27.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
